@@ -1,0 +1,38 @@
+#navbar{
+    flex-direction: column;
+}
+#logo img{
+    display: flex;
+    margin: auto;
+}
+.primary{
+    font-size: 60px;
+    padding: 20px;
+}
+ #home{
+padding: 30px;
+height: 753px;
+}
+#services div.box{
+    margin-bottom: 10px;
+}
+#services .box {
+    margin: 7px;
+    padding: 8px;
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+.h-secondary{
+    padding: 10px;
+}
+.services-container {
+    height: 948px;
+}
+.services-container::before{
+    height: 948px;
+}
+#services{
+    flex-direction: column;
+    
+}
